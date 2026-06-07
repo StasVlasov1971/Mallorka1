@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_lang,default_lang,feed_start_date,feed_end_date,feed_version,feed_contact_email,feed_contact_url
+CTMR4,http://www.tib.org/,ca,es,20231101,20261125,2026.05.25.14.24.23,info@consorcidetransports.com,https://www.tib.org/es/sobre-ctm/portal-de-transparencia/datos-abiertos
