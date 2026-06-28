@@ -1,57 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
-  <name>Майорка 2026</name>
+  <name>Mallorca 2026</name>
 
   <Folder>
-    <name>Города и посёлки</name>
-    <Placemark><name>Магалуф (база)</name><Point><coordinates>2.5353,39.5097,0</coordinates></Point></Placemark>
-    <Placemark><name>Пальма-де-Майорка</name><Point><coordinates>2.6491,39.5673,0</coordinates></Point></Placemark>
-    <Placemark><name>Вальдемосса</name><Point><coordinates>2.6226,39.7099,0</coordinates></Point></Placemark>
-    <Placemark><name>Дейя</name><Point><coordinates>2.6467,39.7503,0</coordinates></Point></Placemark>
-    <Placemark><name>Сольер</name><Point><coordinates>2.7148,39.7644,0</coordinates></Point></Placemark>
-    <Placemark><name>Порт-де-Сольер</name><Point><coordinates>2.6954,39.7977,0</coordinates></Point></Placemark>
-    <Placemark><name>Алькудиа</name><Point><coordinates>3.1203,39.8518,0</coordinates></Point></Placemark>
-    <Placemark><name>Порт-де-Польенса</name><Point><coordinates>3.0854,39.9028,0</coordinates></Point></Placemark>
-    <Placemark><name>Петра</name><Point><coordinates>3.1118,39.6116,0</coordinates></Point></Placemark>
-    <Placemark><name>Арта</name><Point><coordinates>3.3506,39.6979,0</coordinates></Point></Placemark>
-    <Placemark><name>Кала-Ратхада</name><Point><coordinates>3.4601,39.7108,0</coordinates></Point></Placemark>
-    <Placemark><name>Сантаньи</name><Point><coordinates>3.1295,39.3548,0</coordinates></Point></Placemark>
-    <Placemark><name>Кала-Фигуэра</name><Point><coordinates>3.1697,39.3317,0</coordinates></Point></Placemark>
-    <Placemark><name>Андратш</name><Point><coordinates>2.4276,39.5717,0</coordinates></Point></Placemark>
-    <Placemark><name>Порт-д'Андратш</name><Point><coordinates>2.3894,39.5430,0</coordinates></Point></Placemark>
-    <Placemark><name>Сант-Эльм</name><Point><coordinates>2.3543,39.5780,0</coordinates></Point></Placemark>
+    <name>Towns and Villages</name>
+    <Placemark><name>Magaluf (base)</name><Point><coordinates>2.5353,39.5097,0</coordinates></Point></Placemark>
+    <Placemark><name>Palma de Mallorca</name><Point><coordinates>2.6491,39.5673,0</coordinates></Point></Placemark>
+    <Placemark><name>Valldemossa</name><Point><coordinates>2.6226,39.7099,0</coordinates></Point></Placemark>
+    <Placemark><name>Deià</name><Point><coordinates>2.6467,39.7503,0</coordinates></Point></Placemark>
+    <Placemark><name>Sóller</name><Point><coordinates>2.7148,39.7644,0</coordinates></Point></Placemark>
+    <Placemark><name>Port de Sóller</name><Point><coordinates>2.6954,39.7977,0</coordinates></Point></Placemark>
+    <Placemark><name>Alcúdia</name><Point><coordinates>3.1203,39.8518,0</coordinates></Point></Placemark>
+    <Placemark><name>Port de Pollença</name><Point><coordinates>3.0854,39.9028,0</coordinates></Point></Placemark>
+    <Placemark><name>Manacor</name><Point><coordinates>3.20953,39.56971,0</coordinates></Point></Placemark>
+    <Placemark><name>Petra</name><Point><coordinates>3.1118,39.6116,0</coordinates></Point></Placemark>
+    <Placemark><name>Artà</name><Point><coordinates>3.3506,39.6979,0</coordinates></Point></Placemark>
+    <Placemark><name>Cala Ratjada</name><Point><coordinates>3.4601,39.7108,0</coordinates></Point></Placemark>
+    <Placemark><name>Santanyí</name><Point><coordinates>3.1295,39.3548,0</coordinates></Point></Placemark>
+    <Placemark><name>Cala Figuera</name><Point><coordinates>3.1697,39.3317,0</coordinates></Point></Placemark>
+    <Placemark><name>Andratx</name><Point><coordinates>2.4276,39.5717,0</coordinates></Point></Placemark>
+    <Placemark><name>Port d'Andratx</name><Point><coordinates>2.3894,39.5430,0</coordinates></Point></Placemark>
+    <Placemark><name>Sant Elm</name><Point><coordinates>2.3543,39.5780,0</coordinates></Point></Placemark>
   </Folder>
 
   <Folder>
-    <name>Пляжи</name>
-    <Placemark><name>Платья-де-Магалуф</name><Point><coordinates>2.5357,39.5072,0</coordinates></Point></Placemark>
-    <Placemark><name>Иллетас</name><Point><coordinates>2.6079,39.5295,0</coordinates></Point></Placemark>
-    <Placemark><name>Са-Калобра</name><Point><coordinates>2.8000,39.8515,0</coordinates></Point></Placemark>
-    <Placemark><name>Платья-де-Форментор</name><Point><coordinates>3.1347,39.9280,0</coordinates></Point></Placemark>
-    <Placemark><name>Плайя-де-Муро</name><Point><coordinates>3.1185,39.8082,0</coordinates></Point></Placemark>
-    <Placemark><name>Кала-Агулья</name><Point><coordinates>3.4513,39.7211,0</coordinates></Point></Placemark>
-    <Placemark><name>Кала-Варкес</name><Point><coordinates>3.2958,39.4999,0</coordinates></Point></Placemark>
-    <Placemark><name>Кала-Мендиа</name><Point><coordinates>3.3165,39.5197,0</coordinates></Point></Placemark>
-    <Placemark><name>Кала-де-Моро</name><Point><coordinates>3.1214,39.3136,0</coordinates></Point></Placemark>
-    <Placemark><name>Кала-Мондрагó</name><Point><coordinates>3.1883,39.3521,0</coordinates></Point></Placemark>
-    <Placemark><name>Сант-Эльм (пляж)</name><Point><coordinates>2.3533,39.5783,0</coordinates></Point></Placemark>
+    <name>Beaches</name>
+    <Placemark><name>Platja de Magaluf</name><Point><coordinates>2.5357,39.5072,0</coordinates></Point></Placemark>
+    <Placemark><name>Illetes Beach</name><Point><coordinates>2.6079,39.5295,0</coordinates></Point></Placemark>
+    <Placemark><name>Sa Calobra Beach</name><Point><coordinates>2.8000,39.8515,0</coordinates></Point></Placemark>
+    <Placemark><name>Platja de Formentor</name><Point><coordinates>3.1347,39.9280,0</coordinates></Point></Placemark>
+    <Placemark><name>Playa de Muro</name><Point><coordinates>3.1185,39.8082,0</coordinates></Point></Placemark>
+    <Placemark><name>Cala Agulla</name><Point><coordinates>3.4513,39.7211,0</coordinates></Point></Placemark>
+    <Placemark><name>Cala Varques</name><Point><coordinates>3.2958,39.4999,0</coordinates></Point></Placemark>
+    <Placemark><name>Cala Mendia</name><Point><coordinates>3.3165,39.5197,0</coordinates></Point></Placemark>
+    <Placemark><name>Cala de Moro</name><Point><coordinates>3.1214,39.3136,0</coordinates></Point></Placemark>
+    <Placemark><name>Cala Mondragó</name><Point><coordinates>3.1883,39.3521,0</coordinates></Point></Placemark>
+    <Placemark><name>Sant Elm Beach</name><Point><coordinates>2.3533,39.5783,0</coordinates></Point></Placemark>
   </Folder>
 
   <Folder>
-    <name>Маяки</name>
+    <name>Lighthouses</name>
     <Placemark><name>Far de Formentor</name><Point><coordinates>3.2123,39.9615,0</coordinates></Point></Placemark>
-    <Placemark><name>Far de Capdepera (Кала-Ратхада)</name><Point><coordinates>3.4775,39.7158,0</coordinates></Point></Placemark>
+    <Placemark><name>Far de Capdepera (Cala Ratjada)</name><Point><coordinates>3.4775,39.7158,0</coordinates></Point></Placemark>
   </Folder>
 
-
   <Folder>
-    <name>Природа и достопримечательности</name>
-    <Placemark><name>Пуиг-де-Ранда (вершина, вид 360°)</name><Point><coordinates>2.9262,39.5278,0</coordinates></Point></Placemark>
-    <Placemark><name>Пещеры Арта (Coves d'Artà)</name><Point><coordinates>3.4511,39.6561,0</coordinates></Point></Placemark>
-    <Placemark><name>Ущелье Торрент-де-Парейс</name><Point><coordinates>2.8078,39.8517,0</coordinates></Point></Placemark>
-    <Placemark><name>Замок Бельвер (Пальма)</name><Point><coordinates>2.6195,39.5638,0</coordinates></Point></Placemark>
-    <Placemark><name>Мирадор Эс-Коломер (Форментор)</name><Point><coordinates>3.1105,39.9290,0</coordinates></Point></Placemark>
+    <name>Nature and Sights</name>
+    <Placemark><name>Puig de Randa (summit, 360° view)</name><Point><coordinates>2.9262,39.5278,0</coordinates></Point></Placemark>
+    <Placemark><name>Coves d'Artà</name><Point><coordinates>3.4511,39.6561,0</coordinates></Point></Placemark>
+    <Placemark><name>Torrent de Pareis Gorge</name><Point><coordinates>2.8078,39.8517,0</coordinates></Point></Placemark>
+    <Placemark><name>Castell de Bellver (Palma)</name><Point><coordinates>2.6195,39.5638,0</coordinates></Point></Placemark>
+    <Placemark><name>Mirador des Colomer (Formentor)</name><Point><coordinates>3.1105,39.9290,0</coordinates></Point></Placemark>
   </Folder>
 
 </Document>
